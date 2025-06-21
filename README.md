@@ -1,2 +1,2 @@
 # LearningCPP
-Self-learning from "www.learncpp.com": Exercises or sample codes  
+Self-learning from "www.learncpp.com": Exercises solutions in each chapter.  
